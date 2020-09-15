@@ -1,0 +1,234 @@
+
+
+ <html>
+
+    <head>
+
+    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+        <meta charset="utf-8">
+
+        <!-- Description, Keywords and Author -->
+
+        <meta name="description" content="">
+
+        <meta name="author" content="">
+
+        
+
+        <title>:: Cyber security | IT TECH ::</title>
+
+		
+
+
+
+        <!-- style -->
+
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+
+        <!-- style -->
+
+        <!-- bootstrap -->
+
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+        <!-- responsive -->
+
+        <link href="css/responsive.css" rel="stylesheet" type="text/css">
+
+        <!-- font-awesome -->
+
+        <link href="css/fonts.css" rel="stylesheet" type="text/css">
+
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+        <!-- font-awesome -->
+
+        <link href="css/effects/normalize.css" rel="stylesheet" type="text/css">
+
+        <link href="css/effects/component.css"  rel="stylesheet" type="text/css" >
+
+	</head>
+
+
+
+    <body>
+
+    
+
+    	<!-- header -->
+
+        	<header role="header">
+
+            	<div class="container">
+
+                	
+                    <nav role="header-nav" class="navy">
+
+                        <ul>
+
+                            <li><a href="index.html" title="Work">HOME</a></li>
+
+                            <li><a href="about.html" title="About">OTHER</a></li>
+
+                            <li class="nav-active"><a href="it technology-1.html" title="it technology">IT TECH</a></li>
+
+                            <li><a href="contact.html" title="Contact">Contact</a></li>
+
+                        </ul>
+
+                    </nav>
+
+                    <!-- nav -->
+
+                </div>
+
+            </header>
+
+        <!-- header -->
+
+        <!-- main -->
+
+        <main role="main-inner-wrapper" class="container">
+
+        	
+
+            	<div class="blog-details">
+
+                	<article class="post-details" id="post-details">
+
+                        <header role="bog-header" class="bog-header text-center">
+
+                            <h3><span>03</span> IT TECHNOLOGY</h3>
+
+                            <h2> Cyber security 
+
+</h2>
+
+                        </header>
+
+                        
+
+                        <figure>
+
+                            <img src="Cyber security.png" alt="" class="img-responsive"/>
+
+                        </figure>
+
+                        
+
+                        <div class="enter-content">
+
+                            <p> Cybersecurity is a traditional sector that is widely used around a variety of industries. Data stored in cyberspace from companies, governments, and other institutions are like tangible assets stored in stock, some of them are very expensive and valuable and need to be protected. Many organizations or individuals such as talent hackers, hacker groups, official cyber army, commercial espionage do hacking activities for survival, so cybersecurity works are to fight against those individuals and organizations and protect assets for their employers.
+
+</p>
+
+                            <p>From one American listed cybersecurity FireEye’s report, it shows a Chinese cyber espionage team called PLA Unit 61398. This team has a military and official background, and they used to do cyber espionage on at least 141 organizations in English speaking countries, included Westinghouse Electric Co, U.S. subsidiaries of SolarWorld AG, United States Steel Corp,  Allegheny Technologies Inc, the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial, and Service Workers International Union; and Alcoa, Inc. Those economic espionage activities are on the FBI website most wanted list. For FireEye strategies, they have found cyber attacks fracture over 1000 servers, they have identified the specific address of PLA Unit 61398, and they have released more than 3000 indicators to bolster defense against APT1 operations. The 3000 APT1 indicators include domain names, IP addresses, MD5 hashes of malware. They also provide sample indicators of compromise(IOCs) and detailed descriptions of over 40 families of malware in APT1’s arsenal of digital weapons, 13 X.509 encryption certificates used by APT1, a compilation of videos showing actual attacker sessions and their intrusion activities. Moreover, Fireeye’s hacker’s team did cyber attacks on Unit 61398’s computers and their data center, leaked biological information, and personal data of military personnel. 
+</p>
+
+
+<P>Edward Snowden used to be an employee of the United States National Security Agency, he had authority highly classified information from the database of the American National Security Agency. In 2013, he flew to Hongkong and then transferred to Russia. He exposed global surveillance run by United States intelligence institutions to global leaders like Japanese prime minister Shinzo Abe, Israel prime minister Benjamin Netanyahu, German Chancellor Angela Merkel. He also disclosed United States severity surveillance on Chinese government databases, Chinese state-owned-enterprise technological development and intellectual property, Chinese large telecommunication companies’ communication record, and history. For a defensive strategy, Chinese companies have a variety of cybersecurity solutions on the data breaches. Huawei’s new solution is SDSec proactive network defense, it has launched brand-new software-defined security to detects and eliminates threats quickly by means of network-wide monitoring and network behaviors drill down, it used AI technology like Deep neural network algorithms and machine learning technology to implement transformation from reactive defense to proactive defense. Furthermore, Huawei SDSec’s proactive network defense blocks the transmission of threats on the internet prevents the horizontal spread of threats, and brings about the transformation from single-point defense to network-wide defense. Next, Huawei’s solution uses service-specific policy adaption to dynamically adjust and optimize policies, upgrading O&M from a manual to an intelligent process. It enables AI-based self-learning and detection of threats along with network-wide orchestration and disposal to nip threats in the bud. Huawei is not a single Chinese company to fight against the PRISM project that Edward Snowden leaked. Alibaba's cloud service is very safe for Chinese companies to store data without American PRISM surveillance. 
+
+</P>
+<P>Many cybersecurity companies,  anti-malware companies work with government institutions, intelligent services, and military institutions. In America, Lockheed Martin, Boeing, Northrop Grumman, and Raytheon, and other military-industrial-complex work with the Pentagon, CIA to protect American national classified intelligence files, military intellectual property on cyberspace. Those companies in cybersecurity areas are better than security products from Symantec, Microsoft,  McAfee, Amazon for civil use in cyberspace. Those companies are also suppliers of the US Cyber army like software, malware, databases, and other software. In China, Huawei, Lenovo, and ZTE work with the ministry of state security, ministry of public security to grab data from mobile phone users, internet visiting records, social media records. It is like upgrading <1984> with an artificial intelligence surveillance system and algorithm dictatorship. Some other companies like Tencent, Alibaba, Bytedance(Tiktok’s Holding company), Qihoo 360, also work with government institutions. In Russia, Kaspersky and Yandex work with the Federal security service, Foreign Intelligence service, and Federal Proactive service to do cyber-attack and surveillance systems in Russia. There is a dilemma in the cybersecurity industry, security companies create malware, it is true for this phenomenon because those security companies always are suppliers for government institutions, intelligent services, and cyber army, especially in America and China. 
+                            <p> In Cyberspace space, Intellectual property, financial information, personal data, messaging records, internet visiting records, team cloud projects, and other valuable assets are all needed to be protected. Many of those cyber assets are stored in cloud storage services, like DropBox, Google Drive, Baidu Net Disk, Apple iCloud, Amazon Cloud, Huawei Cloud, Tencent Cloud, and so on. Cloud data protection will be the highest priority for cybersecurity. Cloud delivered security provided users with protection from persistent online threats like malware and ransomware.  Users are also more vulnerable to attacks due to the increasing popularity of cloud applications, as well as direct internet access (DIA) for remote and roaming users who bypass the safety of the VPN. 
+</p>
+<p>From my personal perspective, cybersecurity impacts me a lot. I used to read many cybersecurity books, like Bill Gertz’s <Deceiving the Sky: Inside Communist China's Drive for Global Supremacy>, <iWar, War, and peace in information age> and so on. For my laptop, I use Trend Micro, Symantec Norton, Kaspersky Internal security,  360 Internet security for my laptop security. For my mobile devices, I use Avira mobile security, Trend Mobile Security, Tencent Mobile Security, 360 Safeguard for financial security, privacy security, fake information processing. For cloud security, I use the Time machine system to back up information stored in iCloud. And I use Baidu Net Disk, Tencent Weiyun, Huawei Cloud to store my personal data. For a bookstore retail company that my father works as Chairman of the board in the great China region, that company paid Huawei Cloud firewall service and Huawei data center to store online books. That company also paid Lenovo to provide internal database management and database security. Lenovo also provides solutions for AI analytics on potential risk and malicious software. 
+</p>
+<p>I used to face scams emails from fake Chinese government institutions, those emails want me to pay bills because I violate money laundry law. I called the bank to ask and they told me those emails are a scam to make money if I pay those bills. I also used to face trojans that hijack my computer and remote control it, I have to disconnect the WIFI and then shut down the power, until I ask Norton, a specialist, to do a Trojan scam and remove the process. I also faced fake bank websites, they were designed as real bank websites but URL is not absolutely correct after I typed my bank information and then clicked login. I had to prepare my ID and then went to the bank to freeze my bank account and to change banking information, which not only wasted my time but also made me more afraid.
+
+</p>
+                        </div>
+
+                	</article>
+
+                    
+
+             
+                    
+
+                </div>
+
+                    
+
+                
+
+               
+
+            
+
+        </main>
+
+    	<!-- main -->
+
+        <!-- footer -->
+
+        <footer role="footer">
+
+            <!-- logo -->
+
+                <h1>
+
+                    <a href="index.html" title="IT TECH"></a>
+
+                </h1>
+
+            <!-- logo -->
+
+            <!-- nav -->
+
+            <nav role="footer-nav">
+
+            	<ul>
+
+                	<li><a href="index.html" title="Work">HOME</a></li>
+
+                    <li><a href="about.html" title="About">OTHER</a></li>
+
+                    <li><a href="blog.html" title="Blog">IT TECH</a></li>
+
+                    <li><a href="contact.html" title="Contact">Contact</a></li>
+
+                </ul>
+
+            </nav>
+
+          
+
+        </footer>
+
+        <!-- footer -->
+
+    
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+        <script src="js/jquery.min.js" type="text/javascript"></script>
+
+        <!-- custom -->
+
+		<script src="js/nav.js" type="text/javascript"></script>
+
+        <script src="js/custom.js" type="text/javascript"></script>
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+        <script src="js/effects/masonry.pkgd.min.js"  type="text/javascript"></script>
+
+		<script src="js/effects/imagesloaded.js"  type="text/javascript"></script>
+
+		<script src="js/effects/classie.js"  type="text/javascript"></script>
+
+		<script src="js/effects/AnimOnScroll.js"  type="text/javascript"></script>
+
+        <script src="js/effects/modernizr.custom.js"></script>
+
+        <!-- jquery.countdown -->
+
+        <script src="js/html5shiv.js" type="text/javascript"></script>
+
+    </body>
+
+</html>
